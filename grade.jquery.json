@@ -5,10 +5,10 @@
 	"author": {
         	"name": "yanye",
         	"email": "605895665@qq.com",
-      	  "url": "https://github.com/653579487"
+      	  "url": "https://github.com/653579487/Service-Hook/releases"
     	},
     	"dependencies": {
            "jquery": ">=1.5"
-   	 },
+   	 }
    	 
 }
